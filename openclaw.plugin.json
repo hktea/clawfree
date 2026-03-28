@@ -1,0 +1,18 @@
+{
+  "id": "clawfree",
+  "name": "ClawFree",
+  "description": "ClawFree channel plugin for OpenClaw",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "dist/index.js",
+  "author": "ClawFree",
+  "license": "MIT",
+  "channels": [
+    "clawfree"
+  ],
+  "configSchema": {
+    "type": "object",
+    "additionalProperties": false,
+    "properties": {}
+  }
+}
